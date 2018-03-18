@@ -1,0 +1,15 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "description": "Add a context menu item to search for Nyaa.si Torrents.",
+   "icons": {
+      "16": "nyaa_icon16.png",
+      "48": "nyaa_icon48.png"
+   },
+   "manifest_version": 2,
+   "minimum_chrome_version": "6",
+   "name": "Search Nyaa Right Click", 
+   "permissions": [ "contextMenus", "tabs" ],
+   "version": "1.0"
+}
